@@ -4,7 +4,7 @@ Este projeto é uma **Landing Page Responsiva** desenvolvida com JavaScript, CSS
 
 ***Funcionalidades***
 
-1. Layout Responsivo
+**1. Layout Responsivo**
 
 * Grid Flexível: Uso de CSS Grid para criar layout que se ajusta automaticamente ao tamanho da tela.
 
@@ -12,7 +12,7 @@ Este projeto é uma **Landing Page Responsiva** desenvolvida com JavaScript, CSS
 
 * Imagens Responsivas: Imagens que se redimensionam e se adaptam à largura da tela, usando propriedades como ‘max-width: 100% e ‘height: auto’.
 
-2. Navegação Intuitiva 
+**2. Navegação Intuitiva** 
 
 * Menu Hambúrguer: Para telas menores, a barra de navegação é substituída por ícone de menu, que pode ser clicado para exibir opções de navegação.
 
@@ -20,11 +20,11 @@ Este projeto é uma **Landing Page Responsiva** desenvolvida com JavaScript, CSS
 
 * Scroll Suave: Navegação suave entre seções da página usando JavaScript.
 
-3. Integração de Mídias Sociais 
+**3. Integração de Mídias Sociais** 
 
 * Botões de Compartilhamento: Botões integrados para compartilhar conteúdo em redes sociais otimizados para dispositivos móveis.
 
-4. Animações e Efeitos Visuais
+**4. Animações e Efeitos Visuais**
 
 * Animação Suaves: Animações e transições que não comprometem a performance em dispositivos móveis, criadas com CSS e JavaScript.
 
